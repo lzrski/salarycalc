@@ -1,5 +1,5 @@
 [![CircleCI](https://circleci.com/gh/niteoweb/salarycalc.svg?style=svg)](https://circleci.com/gh/niteoweb/salarycalc)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e1fb93fc-fe85-42c5-a611-5d66bd9e880c/deploy-status)](https://app.netlify.com/sites/lzrski-salary-calculator/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/becf5782-9ebf-4a00-bea5-ef4a8f58750e/deploy-status)](https://app.netlify.com/sites/niteo-salary-calculator/deploys)
 
 # Elm engine running the Salary Calculator
 
