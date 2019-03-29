@@ -188,7 +188,7 @@ cityDetail city =
             }
 
         Amsterdam ->
-            { name = "Amsterdam"
+            { name = "Amsterdam ❌❌❌"
             , locationFactor = 1.2
             }
 
